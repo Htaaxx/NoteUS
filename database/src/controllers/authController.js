@@ -4,7 +4,6 @@ const mongoose = require("mongoose");
 require("dotenv").config();
 
 const JWT_SECRET = process.env.JWT_SECRET || "your_jwt_secret";
-const MONGO_URI = "mongodb+srv://itsthang333:090304@cluster0.192xz.mongodb.net/NotebookMLv2?retryWrites=true&w=majority&appName=Cluster0";
 const REFRESH_SECRET = process.env.REFRESH_SECRET || "your_refresh_secret";
 
 // Kết nối MongoDB
