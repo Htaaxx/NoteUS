@@ -20,11 +20,11 @@ Welcome to NoteUS, a full-stack machine learning application developed by the Wi
 
 | **Name**             | **Major**                                            | **University**                 |
 |----------------------|------------------------------------------------------|--------------------------------|
-| Tuan-Anh Ha          | Information Technology - Data Science                | University of Science (VNUHCM) |
-| Quang-Thang Duong    | Information Technology - Computer Vision             | University of Science (VNUHCM) |
-| Quoc-Thang Nguyen    | Information Technology - Computer Vision             | University of Science (VNUHCM) |
-| Hai-Long Pham-Nguyen | Information Technology - Computer Vision             | University of Science (VNUHCM) |
-| Thanh-Nghia Vo       | Information Technology - Natural Language Processing | University of Science (VNUHCM) |
+| Tuan-Anh Ha          | Information Technology               | University of Science (VNUHCM) |
+| Quang-Thang Duong    | Information Technology             | University of Science (VNUHCM) |
+| Quoc-Thang Nguyen    | Information Technology             | University of Science (VNUHCM) |
+| Hai-Long Pham-Nguyen | Information Technology              | University of Science (VNUHCM) |
+| Thanh-Nghia Vo       | Information Technology   | University of Science (VNUHCM) |
 
 ---
 
